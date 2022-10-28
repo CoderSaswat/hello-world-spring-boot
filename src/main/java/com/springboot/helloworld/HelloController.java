@@ -8,7 +8,7 @@ public class HelloController {
     
     @GetMapping("/test")
     public String test(){
-        return "Hi, Saswat your spring boot application has beem successfully deployed to azure";
+        return "Hi, Saswat your spring boot application has beem successfully deployed to azure 2";
     }
     
 }
